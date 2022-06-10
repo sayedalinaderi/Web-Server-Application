@@ -3,3 +3,4 @@ Web server hardware is connected to the internet and allows data to be exchanged
 Web servers are used in web hosting, or the hosting of data for websites and web-based applications -- or web applications.
 How do web servers work?
 Web server software is accessed through the domain names of websites and ensures the delivery of the site's content to the requesting user. The software side is also comprised of several components, with at least an HTTP server. The HTTP server is able to understand HTTP and URLs. As hardware, a web server is a computer that stores web server software and other files related to a website, such as HTML documents, images and JavaScript files.
+This is our 3rd class network project 
